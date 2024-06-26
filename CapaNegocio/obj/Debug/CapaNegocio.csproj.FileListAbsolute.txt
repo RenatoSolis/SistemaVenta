@@ -1,0 +1,5 @@
+C:\Users\Admin\source\repos\SistemaVentasRS\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\SistemaVentasRS\CapaNegocio\obj\Debug\CapaNegocio.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\SistemaVentasRS\CapaNegocio\obj\Debug\CapaNegocio.Properties.Resources.resources
+C:\Users\Admin\source\repos\SistemaVentasRS\CapaNegocio\obj\Debug\CapaNegocio.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\SistemaVentasRS\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
